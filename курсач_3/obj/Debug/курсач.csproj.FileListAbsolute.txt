@@ -1,0 +1,32 @@
+C:\Users\Acer\source\repos\курсач\obj\Debug\курсач.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\курсач\obj\Debug\курсач.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\курсач\obj\Debug\курсач.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\курсач\obj\Debug\курсач.Form2.resources
+C:\Users\Acer\source\repos\курсач\obj\Debug\курсач.Form3.resources
+C:\Users\Acer\source\repos\курсач\obj\Debug\курсач.Form4.resources
+C:\Users\Acer\source\repos\курсач\obj\Debug\курсач.Form5.resources
+C:\Users\Acer\source\repos\курсач\obj\Debug\курсач.Form6.resources
+C:\Users\Acer\source\repos\курсач\obj\Debug\курсач.Form7.resources
+C:\Users\Acer\source\repos\курсач\obj\Debug\kyrsovai.Properties.Resources.resources
+C:\Users\Acer\source\repos\курсач\bin\Debug\kyrsovai.exe.config
+C:\Users\Acer\source\repos\курсач\bin\Debug\kyrsovai.exe
+C:\Users\Acer\source\repos\курсач\bin\Debug\kyrsovai.pdb
+C:\Users\Acer\source\repos\курсач\obj\Debug\kyrsovai.exe
+C:\Users\Acer\source\repos\курсач\obj\Debug\kyrsovai.pdb
+C:\Users\Acer\source\repos\курсач\obj\Debug\курсач.Form1.resources
+C:\Users\Acer\Desktop\курсач ппога\Курсовой проект\курсач_3\bin\Debug\kyrsovai.exe.config
+C:\Users\Acer\Desktop\курсач ппога\Курсовой проект\курсач_3\bin\Debug\kyrsovai.exe
+C:\Users\Acer\Desktop\курсач ппога\Курсовой проект\курсач_3\bin\Debug\kyrsovai.pdb
+C:\Users\Acer\Desktop\курсач ппога\Курсовой проект\курсач_3\obj\Debug\курсач.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\курсач ппога\Курсовой проект\курсач_3\obj\Debug\курсач.Form1.resources
+C:\Users\Acer\Desktop\курсач ппога\Курсовой проект\курсач_3\obj\Debug\курсач.Form2.resources
+C:\Users\Acer\Desktop\курсач ппога\Курсовой проект\курсач_3\obj\Debug\курсач.Form3.resources
+C:\Users\Acer\Desktop\курсач ппога\Курсовой проект\курсач_3\obj\Debug\курсач.Form4.resources
+C:\Users\Acer\Desktop\курсач ппога\Курсовой проект\курсач_3\obj\Debug\курсач.Form5.resources
+C:\Users\Acer\Desktop\курсач ппога\Курсовой проект\курсач_3\obj\Debug\курсач.Form6.resources
+C:\Users\Acer\Desktop\курсач ппога\Курсовой проект\курсач_3\obj\Debug\курсач.Form7.resources
+C:\Users\Acer\Desktop\курсач ппога\Курсовой проект\курсач_3\obj\Debug\kyrsovai.Properties.Resources.resources
+C:\Users\Acer\Desktop\курсач ппога\Курсовой проект\курсач_3\obj\Debug\курсач.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\курсач ппога\Курсовой проект\курсач_3\obj\Debug\курсач.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\курсач ппога\Курсовой проект\курсач_3\obj\Debug\kyrsovai.exe
+C:\Users\Acer\Desktop\курсач ппога\Курсовой проект\курсач_3\obj\Debug\kyrsovai.pdb
